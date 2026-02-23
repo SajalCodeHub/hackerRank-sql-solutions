@@ -13,3 +13,11 @@ FROM CITY WHERE COUNTRYCODE = 'USA' AND POPULATION > 100000;
 
 SELECT NAME 
 FROM CITY WHERE COUNTRYCODE = 'USA' AND POPULATION > 120000;
+
+-- Problem: Select All
+-- Source: HackerRank
+-- Link: https://www.hackerrank.com/challenges/select-all-sql/problem
+-- Pattern: Conditional Row Filtering
+
+SELECT * 
+FROM CITY;
