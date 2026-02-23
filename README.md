@@ -1,4 +1,3 @@
-# HackerRank-Questions-Solved
 # SQL Query Patterns & Techniques
 
 This repository contains structured SQL query implementations based on curated HackerRank problems.
